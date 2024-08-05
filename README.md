@@ -11,6 +11,9 @@ It's not CounterStrike development
 更改ja3s指纹<br>
 teamsever登录接口修改，从根源阻止蓝队字典爆破<br>
 修改beacon配置信息的异或密钥<br>
+增加了Event Log 显示连接的 teamserver 的 IP<br>
+aggressor 新增监听器时默认显示远程 IP<br>
+
 修复了以下文章的新特征：<br>
 [CS反制-CS服务器新特征](https://cloud.tencent.com/developer/article/1967094)
 # 结语
