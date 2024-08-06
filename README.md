@@ -15,7 +15,8 @@ teamsever登录接口修改，从根源阻止蓝队字典爆破<br>
 aggressor 新增监听器时默认显示远程 IP<br>
 
 修复了以下文章的新特征：<br>
-[CS反制-CS服务器新特征](https://cloud.tencent.com/developer/article/1967094)
+[CS反制-CS服务器新特征](https://cloud.tencent.com/developer/article/1967094)<br>
+新增 session 显示ip归属地
 # 结语
 一次实验性学习项目，拥有很多不足之处。后期或许会？....
 
